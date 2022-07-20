@@ -7,3 +7,5 @@ This is a Travel advisor single page webapp made using React JS and multiple api
 
 
 Setup: run ```npm i && npm start``` to start the development server
+
+## Trailer Video
