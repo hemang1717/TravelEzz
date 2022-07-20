@@ -13,7 +13,7 @@ Setup: run ```npm i && npm start``` to start the development server
 
 
 ##Images
-1. The Interface
+1.The Interface
 
 
 ![Front page](https://user-images.githubusercontent.com/96871477/179968120-49e851de-d77e-4d2e-b898-a0513c2e3d68.png)
