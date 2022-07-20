@@ -21,3 +21,6 @@ Setup: run ```npm i && npm start``` to start the development server
 
 ![tamra](https://user-images.githubusercontent.com/96871477/179968195-7538223d-dec7-4e25-857e-ad91ada36541.png)
 ![details](https://user-images.githubusercontent.com/96871477/179968289-3b764918-2af2-47b4-b0c3-7e4bcafe2312.png)
+
+
+It contains the details like Rating, Rank ,Certificate ,Type of food ,Location Details,Phone number,website links etc.
