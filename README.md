@@ -9,3 +9,13 @@ This is a Travel advisor single page webapp made using React JS and multiple api
 Setup: run ```npm i && npm start``` to start the development server
 
 ## Trailer Video
+
+
+
+##Images
+1. The Interface
+![Front page](https://user-images.githubusercontent.com/96871477/179968120-49e851de-d77e-4d2e-b898-a0513c2e3d68.png)
+
+2.Details About Restaurant
+![tamra](https://user-images.githubusercontent.com/96871477/179968195-7538223d-dec7-4e25-857e-ad91ada36541.png)
+![details](https://user-images.githubusercontent.com/96871477/179968289-3b764918-2af2-47b4-b0c3-7e4bcafe2312.png)
