@@ -7,7 +7,8 @@ This is a Travel advisor single page webapp made using React JS and multiple api
 
 
 Setup: run ```npm i && npm start``` to start the development server
-##Disclaimer
+
+## Disclaimer
 I don't own a credit card and thus i can't able to buy the proper google maps api and therefore you will find a watermark on the google maps but the places get loaded properly. One more functionality is not working that is the search bar because of map's api so we have to scroll through the map to find out our place.
 
 ## Trailer Video
